@@ -1,0 +1,2205 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DOTNET-UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DOTNET-UI.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\ajax\\dashboard-boxrefresh-demo.php",
+      "PackagePath": "staticwebassets\\ajax\\dashboard-boxrefresh-demo.php"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\AdminLTE.css",
+      "PackagePath": "staticwebassets\\css\\AdminLTE.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\bootstrap-slider\\slider.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-slider\\slider.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.min.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\colorpicker\\bootstrap-colorpicker.css",
+      "PackagePath": "staticwebassets\\css\\colorpicker\\bootstrap-colorpicker.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\colorpicker\\bootstrap-colorpicker.min.css",
+      "PackagePath": "staticwebassets\\css\\colorpicker\\bootstrap-colorpicker.min.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\datatables\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\datatables\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\css\\datatables\\images\\sort_asc.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\datatables\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\css\\datatables\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\datatables\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\css\\datatables\\images\\sort_both.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\datatables\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\css\\datatables\\images\\sort_desc.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\datatables\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\css\\datatables\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\daterangepicker\\daterangepicker-bs3.css",
+      "PackagePath": "staticwebassets\\css\\daterangepicker\\daterangepicker-bs3.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\fullcalendar\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\css\\fullcalendar\\fullcalendar.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\fullcalendar\\fullcalendar.print.css",
+      "PackagePath": "staticwebassets\\css\\fullcalendar\\fullcalendar.print.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\all.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\all.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\_all.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\_all.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\aero.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\aero.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\aero.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\aero.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\aero@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\aero@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\blue.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\blue.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\blue.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\blue.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\blue@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\blue@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\flat.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\flat.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\flat.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\flat.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\flat@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\flat@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\green.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\green.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\green.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\green.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\green@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\green@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\grey.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\grey.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\grey.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\grey.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\grey@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\grey@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\orange.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\orange.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\orange.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\orange.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\orange@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\orange@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\pink.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\pink.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\pink.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\pink.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\pink@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\pink@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\purple.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\purple.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\purple.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\purple.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\purple@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\purple@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\red.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\red.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\red.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\red.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\red@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\red@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\yellow.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\yellow.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\yellow.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\yellow.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\flat\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\flat\\yellow@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\futurico\\futurico.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\futurico\\futurico.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\futurico\\futurico.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\futurico\\futurico.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\futurico\\futurico@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\futurico\\futurico@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\line\\_all.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\line\\_all.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\line\\aero.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\line\\aero.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\line\\blue.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\line\\blue.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\line\\green.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\line\\green.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\line\\grey.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\line\\grey.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\line\\line.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\line\\line.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\line\\line.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\line\\line.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\line\\line@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\line\\line@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\line\\orange.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\line\\orange.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\line\\pink.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\line\\pink.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\line\\purple.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\line\\purple.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\line\\red.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\line\\red.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\line\\yellow.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\line\\yellow.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\_all.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\_all.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\aero.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\aero.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\aero.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\aero.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\aero@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\aero@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\blue.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\blue.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\blue.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\blue.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\blue@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\blue@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\green.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\green.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\green.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\green.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\green@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\green@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\grey.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\grey.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\grey.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\grey.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\grey@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\grey@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\minimal.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\minimal.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\minimal.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\minimal.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\minimal@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\minimal@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\orange.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\orange.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\orange.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\orange.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\orange@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\orange@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\pink.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\pink.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\pink.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\pink.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\pink@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\pink@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\purple.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\purple.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\purple.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\purple.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\purple@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\purple@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\red.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\red.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\red.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\red.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\red@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\red@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\yellow.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\yellow.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\yellow.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\yellow.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\minimal\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\minimal\\yellow@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\polaris\\polaris.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\polaris\\polaris.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\polaris\\polaris.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\polaris\\polaris.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\polaris\\polaris@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\polaris\\polaris@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\_all.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\_all.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\aero.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\aero.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\aero.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\aero.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\aero@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\aero@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\blue.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\blue.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\blue.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\blue.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\blue@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\blue@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\green.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\green.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\green.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\green.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\green@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\green@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\grey.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\grey.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\grey.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\grey.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\grey@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\grey@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\orange.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\orange.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\orange.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\orange.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\orange@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\orange@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\pink.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\pink.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\pink.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\pink.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\pink@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\pink@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\purple.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\purple.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\purple.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\purple.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\purple@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\purple@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\red.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\red.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\red.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\red.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\red@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\red@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\square.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\square.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\square.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\square.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\square@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\square@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\yellow.css",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\yellow.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\yellow.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\yellow.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\iCheck\\square\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\css\\iCheck\\square\\yellow@2x.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\css\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\images\\ui-bg_flat_0_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\images\\ui-bg_flat_55_fbec88_40x100.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_flat_55_fbec88_40x100.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\images\\ui-bg_glass_85_dfeffc_1x400.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_85_dfeffc_1x400.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\images\\ui-icons_217bc0_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_217bc0_256x240.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\images\\ui-icons_469bdd_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_469bdd_256x240.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\images\\ui-icons_6da8d5_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_6da8d5_256x240.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\images\\ui-icons_d8e7f3_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_d8e7f3_256x240.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\images\\ui-icons_f9bd01_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_f9bd01_256x240.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\css\\ionicons.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\ionslider\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\css\\ionslider\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\ionslider\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\css\\ionslider\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\ionslider\\ion.rangeSlider.skinNice.css",
+      "PackagePath": "staticwebassets\\css\\ionslider\\ion.rangeSlider.skinNice.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\jQueryUI\\images\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\css\\jQueryUI\\images\\animated-overlay.gif"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\jQueryUI\\images\\ui-bg_flat_0_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\css\\jQueryUI\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\jQueryUI\\images\\ui-bg_flat_100_e6e7e8_40x100.png",
+      "PackagePath": "staticwebassets\\css\\jQueryUI\\images\\ui-bg_flat_100_e6e7e8_40x100.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\jQueryUI\\images\\ui-bg_flat_100_f56954_40x100.png",
+      "PackagePath": "staticwebassets\\css\\jQueryUI\\images\\ui-bg_flat_100_f56954_40x100.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\jQueryUI\\images\\ui-bg_flat_55_f39c12_40x100.png",
+      "PackagePath": "staticwebassets\\css\\jQueryUI\\images\\ui-bg_flat_55_f39c12_40x100.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\jQueryUI\\images\\ui-bg_flat_65_ffffff_40x100.png",
+      "PackagePath": "staticwebassets\\css\\jQueryUI\\images\\ui-bg_flat_65_ffffff_40x100.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\jQueryUI\\images\\ui-bg_flat_75_dadada_40x100.png",
+      "PackagePath": "staticwebassets\\css\\jQueryUI\\images\\ui-bg_flat_75_dadada_40x100.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\jQueryUI\\images\\ui-bg_flat_75_e6e6e6_40x100.png",
+      "PackagePath": "staticwebassets\\css\\jQueryUI\\images\\ui-bg_flat_75_e6e6e6_40x100.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\jQueryUI\\images\\ui-bg_flat_75_ffffff_40x100.png",
+      "PackagePath": "staticwebassets\\css\\jQueryUI\\images\\ui-bg_flat_75_ffffff_40x100.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\jQueryUI\\images\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\css\\jQueryUI\\images\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\jQueryUI\\images\\ui-icons_454545_256x240.png",
+      "PackagePath": "staticwebassets\\css\\jQueryUI\\images\\ui-icons_454545_256x240.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\jQueryUI\\images\\ui-icons_888888_256x240.png",
+      "PackagePath": "staticwebassets\\css\\jQueryUI\\images\\ui-icons_888888_256x240.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\jQueryUI\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\css\\jQueryUI\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\jQueryUI\\jquery-ui-1.10.3.custom.css",
+      "PackagePath": "staticwebassets\\css\\jQueryUI\\jquery-ui-1.10.3.custom.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\jQueryUI\\jquery-ui-1.10.3.custom.min.css",
+      "PackagePath": "staticwebassets\\css\\jQueryUI\\jquery-ui-1.10.3.custom.min.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\jvectormap\\jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets\\css\\jvectormap\\jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\morris\\morris.css",
+      "PackagePath": "staticwebassets\\css\\morris\\morris.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\timepicker\\bootstrap-timepicker.css",
+      "PackagePath": "staticwebassets\\css\\timepicker\\bootstrap-timepicker.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\css\\timepicker\\bootstrap-timepicker.min.css",
+      "PackagePath": "staticwebassets\\css\\timepicker\\bootstrap-timepicker.min.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\blur-background04.jpg",
+      "PackagePath": "staticwebassets\\img\\blur-background04.jpg"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\blur-background08.jpg",
+      "PackagePath": "staticwebassets\\img\\blur-background08.jpg"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\blur-background09.jpg",
+      "PackagePath": "staticwebassets\\img\\blur-background09.jpg"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\bootstrap-colorpicker\\alpha-horizontal.png",
+      "PackagePath": "staticwebassets\\img\\bootstrap-colorpicker\\alpha-horizontal.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\bootstrap-colorpicker\\alpha.png",
+      "PackagePath": "staticwebassets\\img\\bootstrap-colorpicker\\alpha.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\bootstrap-colorpicker\\hue-horizontal.png",
+      "PackagePath": "staticwebassets\\img\\bootstrap-colorpicker\\hue-horizontal.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\bootstrap-colorpicker\\hue.png",
+      "PackagePath": "staticwebassets\\img\\bootstrap-colorpicker\\hue.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\bootstrap-colorpicker\\saturation.png",
+      "PackagePath": "staticwebassets\\img\\bootstrap-colorpicker\\saturation.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\credit\\mestro.png",
+      "PackagePath": "staticwebassets\\img\\credit\\mestro.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\icons.png",
+      "PackagePath": "staticwebassets\\img\\icons.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\loader.gif",
+      "PackagePath": "staticwebassets\\img\\loader.gif"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\img\\loading.gif"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\sprite-skin-flat.png",
+      "PackagePath": "staticwebassets\\img\\sprite-skin-flat.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\img\\sprite-skin-nice.png",
+      "PackagePath": "staticwebassets\\img\\sprite-skin-nice.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\AdminLTE\\app.js",
+      "PackagePath": "staticwebassets\\js\\AdminLTE\\app.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\AdminLTE\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\AdminLTE\\dashboard.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\jquery-ui-1.10.3.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.10.3.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\jquery-ui-1.10.3.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.10.3.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\pagination.js",
+      "PackagePath": "staticwebassets\\js\\pagination.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\bootstrap-slider\\bootstrap-slider.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap-slider\\bootstrap-slider.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\CHANGES.md",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\CHANGES.md"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\LICENSE.md",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\README.md",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\README.md"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\build-config.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\build-config.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\config.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\config.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\contents.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\contents.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\af.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\af.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\ar.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\bg.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\bn.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\bn.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\bs.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\bs.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\ca.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\cs.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\cy.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\da.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\da.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\de.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\de.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\el.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\el.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\en-au.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\en-ca.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\en-gb.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\en.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\en.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\eo.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\es.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\es.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\et.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\et.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\eu.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\fa.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\fi.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\fo.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\fr.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\gl.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\gu.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\he.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\he.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\hi.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\hr.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\hu.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\id.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\id.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\is.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\is.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\it.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\it.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\ja.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\ka.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\ka.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\km.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\km.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\ko.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\ku.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\lt.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\lv.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\mk.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\mn.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\ms.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\ms.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\nb.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\nl.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\no.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\no.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\pl.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\pt-br.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\pt.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\ro.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\ru.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\si.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\si.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\sk.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\sl.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\sq.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\sr.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\sv.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\th.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\th.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\tr.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\ug.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\uk.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\vi.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\lang\\zh.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\fakeobjects\\images\\spacer.gif",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\fakeobjects\\images\\spacer.gif"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\image\\dialogs\\image.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\image\\dialogs\\image.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\image\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\image\\images\\noimage.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\magicline\\images\\icon.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\magicline\\images\\icon.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\pastefromword\\filter\\default.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\pastefromword\\filter\\default.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\scayt\\LICENSE.md",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\scayt\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\scayt\\README.md",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\scayt\\README.md"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\scayt\\dialogs\\options.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\scayt\\dialogs\\options.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\table\\dialogs\\table.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\table\\dialogs\\table.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\wsc\\LICENSE.md",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\wsc\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\wsc\\README.md",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\wsc\\README.md"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\ciframe.html",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\ciframe.html"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\tmp.html",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\tmp.html"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\tmpFrameset.html",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\tmpFrameset.html"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\wsc.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\wsc.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\wsc.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\wsc.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\wsc_ie.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\plugins\\wsc\\dialogs\\wsc_ie.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\dialog.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\dialog.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\dialog_ie.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\dialog_ie7.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\dialog_ie7.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\dialog_ie8.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\dialog_iequirks.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\dialog_opera.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\dialog_opera.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\editor.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\editor.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\editor_gecko.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\editor_gecko.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\editor_ie.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\editor_ie.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\editor_ie7.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\editor_ie7.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\editor_ie8.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\editor_iequirks.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\icons.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\icons.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\icons_hidpi.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\images\\arrow.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\images\\close.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\images\\close.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\images\\hidpi\\lock-open.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\images\\hidpi\\lock-open.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\images\\hidpi\\lock.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\images\\hidpi\\lock.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\images\\hidpi\\refresh.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\images\\hidpi\\refresh.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\images\\lock-open.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\images\\lock-open.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\images\\lock.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\images\\lock.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\images\\refresh.png"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\skins\\moono\\readme.md",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\skins\\moono\\readme.md"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\colorpicker\\bootstrap-colorpicker.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\colorpicker\\bootstrap-colorpicker.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\colorpicker\\bootstrap-colorpicker.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\colorpicker\\bootstrap-colorpicker.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\datatables\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\datatables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\excanvas.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\excanvas.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\excanvas.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\excanvas.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.colorhelpers.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.colorhelpers.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.colorhelpers.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.colorhelpers.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.canvas.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.canvas.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.canvas.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.canvas.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.categories.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.categories.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.categories.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.categories.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.crosshair.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.crosshair.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.crosshair.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.crosshair.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.errorbars.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.errorbars.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.errorbars.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.errorbars.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.fillbetween.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.fillbetween.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.fillbetween.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.fillbetween.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.image.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.image.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.image.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.image.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.navigate.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.navigate.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.navigate.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.navigate.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.pie.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.pie.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.resize.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.resize.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.selection.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.selection.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.selection.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.selection.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.stack.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.stack.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.symbol.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.symbol.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.symbol.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.symbol.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.threshold.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.threshold.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.threshold.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.threshold.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.time.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\flot\\jquery.flot.time.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flot\\jquery.flot.time.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\fullcalendar\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\fullcalendar\\fullcalendar.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\iCheck\\icheck.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\iCheck\\icheck.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\iCheck\\icheck.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\iCheck\\icheck.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\input-mask\\jquery.inputmask.date.extensions.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\input-mask\\jquery.inputmask.date.extensions.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\input-mask\\jquery.inputmask.extensions.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\input-mask\\jquery.inputmask.extensions.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\input-mask\\jquery.inputmask.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\input-mask\\jquery.inputmask.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\input-mask\\jquery.inputmask.numeric.extensions.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\input-mask\\jquery.inputmask.numeric.extensions.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\input-mask\\jquery.inputmask.phone.extensions.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\input-mask\\jquery.inputmask.phone.extensions.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\input-mask\\jquery.inputmask.regex.extensions.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\input-mask\\jquery.inputmask.regex.extensions.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\input-mask\\phone-codes\\phone-be.json",
+      "PackagePath": "staticwebassets\\js\\plugins\\input-mask\\phone-codes\\phone-be.json"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\input-mask\\phone-codes\\phone-codes.json",
+      "PackagePath": "staticwebassets\\js\\plugins\\input-mask\\phone-codes\\phone-codes.json"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\input-mask\\phone-codes\\readme.txt",
+      "PackagePath": "staticwebassets\\js\\plugins\\input-mask\\phone-codes\\readme.txt"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\ionslider\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ionslider\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\jqueryKnob\\jquery.knob.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jqueryKnob\\jquery.knob.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\jvectormap\\jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jvectormap\\jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\jvectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jvectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\misc\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\misc\\html5shiv.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\misc\\jquery.ba-resize.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\misc\\jquery.ba-resize.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\misc\\jquery.placeholder.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\misc\\jquery.placeholder.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\misc\\modernizr.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\misc\\modernizr.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\misc\\respond.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\misc\\respond.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\morris\\morris.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\morris\\morris.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\morris\\morris.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\morris\\morris.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\slimScroll\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\slimScroll\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\slimScroll\\jquery.slimscroll.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\slimScroll\\jquery.slimscroll.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\slimScroll\\slimScroll.jquery.json",
+      "PackagePath": "staticwebassets\\js\\plugins\\slimScroll\\slimScroll.jquery.json"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\sparkline\\jquery.sparkline.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\sparkline\\jquery.sparkline.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\timepicker\\bootstrap-timepicker.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\timepicker\\bootstrap-timepicker.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\plugins\\timepicker\\bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\timepicker\\bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\js\\raphael-min.js",
+      "PackagePath": "staticwebassets\\js\\raphael-min.js"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\404_500_errors.less",
+      "PackagePath": "staticwebassets\\less\\404_500_errors.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\AdminLTE.less",
+      "PackagePath": "staticwebassets\\less\\AdminLTE.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\alerts.less",
+      "PackagePath": "staticwebassets\\less\\alerts.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\boxes.less",
+      "PackagePath": "staticwebassets\\less\\boxes.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\buttons.less",
+      "PackagePath": "staticwebassets\\less\\buttons.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\callout.less",
+      "PackagePath": "staticwebassets\\less\\callout.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\core.less",
+      "PackagePath": "staticwebassets\\less\\core.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\dropdown.less",
+      "PackagePath": "staticwebassets\\less\\dropdown.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\forms.less",
+      "PackagePath": "staticwebassets\\less\\forms.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\header.less",
+      "PackagePath": "staticwebassets\\less\\header.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\iCheck.less",
+      "PackagePath": "staticwebassets\\less\\iCheck.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\invoice.less",
+      "PackagePath": "staticwebassets\\less\\invoice.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\lockscreen.less",
+      "PackagePath": "staticwebassets\\less\\lockscreen.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\login_and_register.less",
+      "PackagePath": "staticwebassets\\less\\login_and_register.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\mailbox.less",
+      "PackagePath": "staticwebassets\\less\\mailbox.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\less\\mixins.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\navs.less",
+      "PackagePath": "staticwebassets\\less\\navs.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\pace.less",
+      "PackagePath": "staticwebassets\\less\\pace.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\progress-bars.less",
+      "PackagePath": "staticwebassets\\less\\progress-bars.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\sidebar.less",
+      "PackagePath": "staticwebassets\\less\\sidebar.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\skins.less",
+      "PackagePath": "staticwebassets\\less\\skins.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\small-box.less",
+      "PackagePath": "staticwebassets\\less\\small-box.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\timeline.less",
+      "PackagePath": "staticwebassets\\less\\timeline.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\less\\vars.less",
+      "PackagePath": "staticwebassets\\less\\vars.less"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\toast\\iao-alert.css",
+      "PackagePath": "staticwebassets\\toast\\iao-alert.css"
+    },
+    {
+      "Id": "E:\\ADotNet\\project\\DOTNET-UI\\DOTNET-UI\\wwwroot\\toast\\iao-alert.jquery.js",
+      "PackagePath": "staticwebassets\\toast\\iao-alert.jquery.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DOTNET-UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DOTNET-UI.props",
+      "PackagePath": "build\\DOTNET-UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DOTNET-UI.props",
+      "PackagePath": "buildMultiTargeting\\DOTNET-UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DOTNET-UI.props",
+      "PackagePath": "buildTransitive\\DOTNET-UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,70 @@
+﻿@model IEnumerable<DOTNET_UI.Models.UsersModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<div class="row">
+    <div class="col-xs-12">
+        <div align="right" style="padding:10px;">
+            <!-- <button class="btn btn-success" type="button" data-toggle="modal" data-target="#AddUser"><i class="fa fa-plus"></i> User</button> -->
+            <a asp-controller="Home" asp-action="Create" class="btn btn-success"><i class="fa fa-plus"></i> User</a>
+        </div>
+        <div class="box">
+            <div class="box-header">
+            </div><!-- /.box-header -->
+            <div class="box-body table-responsive">
+                <table id="example1" class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>SNO</th>
+                            <th>First name</th>
+                            <th>Last name</th>
+                            <th>User role</th>
+                            <th>Email</th>
+                            <th width="10%">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody class="body" id="list">
+                        @{
+                            int rowNo = 0;
+                        }
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @{
+                                        rowNo++;
+                                    } @rowNo
+                                </td>
+                                <td>@item.Firstname</td>
+                                <td>@item.Lastname</td>
+                                <td>@item.Userrole</td>
+                                <td>@item.Email</td>
+                                <td>
+                                    <form asp-action="Delete" asp-route-id="@item.UserID">
+                                        <div role="group" class="w-60 btn-group">
+                                            <a asp-controller="Home" asp-action="Edit" asp-route-id="@item.UserID" title="Edit" data-toggle="tooltip"><i class="material-icons" style="font-size:24px;color:green">&#xE254;</i></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                            <button type="submit" style="border: none;background-color: Transparent;" onclick="return confirm('Are you sure? ,you want to delete the selected record')">
+                                                <i class="material-icons" style="font-size:24px;color:red">&#xE872;</i>
+                                            </button>
+                                        </div>
+                                    </form>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <!-- /.box-body -->
+        </div><!-- /.box -->
+    </div>
+
+    <script>
+        window.onload = function () {
+            _getAll();
+        };
+    </script>
+
+</div>
+
